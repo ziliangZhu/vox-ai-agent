@@ -1,0 +1,15 @@
+# Ignore everything by default. This public repository only tracks promotion assets.
+*
+
+# Keep repository metadata and public-facing documentation.
+!.gitignore
+!README.md
+!CONTACT.md
+!ROADMAP.md
+!CONTRIBUTING.md
+!LICENSE
+
+# Keep public assets.
+!assets/
+!assets/contact/
+!assets/contact/dingtalk-zhu-ziliang.jpg
