@@ -61,13 +61,11 @@ For product evaluation, trial access, integration discussion, or partnership inq
 如需产品评估、试用接入、集成讨论或商务合作，请优先通过官网和以下方式联系我们：
 
 - Website / 官网: https://vox-ai.teddymobile.cn/
-- Trial application / 申请试用: https://vox-ai.teddymobile.cn/trial/apply
 - Email / 邮箱: zhuziliang@teddymobile.cn
-- GitHub contact guide / GitHub 联系说明: [CONTACT.md](./CONTACT.md)
 
-For DingTalk contact, see [CONTACT.md](./CONTACT.md).
+DingTalk / 钉钉:
 
-如需通过钉钉联系，请查看 [CONTACT.md](./CONTACT.md)。
+![DingTalk QR code](./assets/contact/dingtalk-zhu-ziliang.jpg)
 
 ## Repository Scope / 仓库范围
 
