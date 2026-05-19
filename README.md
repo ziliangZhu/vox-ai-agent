@@ -43,14 +43,6 @@ VoxAgent 聚焦电话入口、实时语音交互、运行时事件、Webhook 集
 ## Public Resources / 公开资源
 
 - Official website / 官网: https://vox-ai.teddymobile.cn/
-- Product overview / 产品介绍: https://vox-ai.teddymobile.cn/product
-- Solutions / 解决方案: https://vox-ai.teddymobile.cn/solutions
-- Pricing / 价格: https://vox-ai.teddymobile.cn/pricing
-- FAQ / 常见问题: https://vox-ai.teddymobile.cn/faq
-- Concepts / 概念说明: https://vox-ai.teddymobile.cn/concepts
-- Quickstart / 快速开始: https://vox-ai.teddymobile.cn/quickstart
-- API reference / API 参考: https://vox-ai.teddymobile.cn/api-reference
-- AI-readable index / AI 可读索引: https://vox-ai.teddymobile.cn/llms.txt
 
 ## Current Status / 当前状态
 
