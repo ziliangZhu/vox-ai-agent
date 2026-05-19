@@ -38,6 +38,7 @@ VoxAgent 聚焦电话入口、实时语音交互、运行时事件、Webhook 集
 - **AI Customer Service / AI 客服**: inbound support, callback handling, satisfaction surveys, and conversation summaries. / 来电接待、回访处理、满意度调研和通话总结。
 - **AI Medical Follow-Up / AI 医疗随访**: medication reminders, recovery tracking, revisit reminders, and traceable follow-up records. / 用药提醒、恢复跟踪、复诊提醒和可追溯随访记录。
 - **AI Education / AI 教育**: oral practice, trial lesson conversion, after-class follow-up, and continuous learning tracking. / 口语练习、试听课转化、课后回访和持续学习跟踪。
+- **Emotional Chatbot / 情感聊天 Bot**: companionship calls, emotional support conversations, daily check-ins, and personalized voice interaction. / 陪伴式通话、情感支持对话、日常问候和个性化语音互动。
 - **Professional Services / 专业服务**: consultation triage, information collection, identity checks, and rule-constrained conversations. / 咨询分流、信息收集、身份核验和规则约束型对话。
 
 ## Public Resources / 公开资源
